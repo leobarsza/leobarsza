@@ -1,31 +1,43 @@
-# 👋 Olá, eu sou o Léo
+# 👋 Olá, eu sou o Léo!
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Bacharelado em Ciência da Computação na Anhanguera
+Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de sistemas personalizados, automações e integração de APIs. Tenho interesse especial por soluções que geram impacto real em eficiência e produtividade. Atualmente curso **Ciência da Computação** na Anhanguera e atuo com desenvolvimento backend e frontend.
+
+- 💻 Desenvolvedor em formação com projetos reais na área de crédito consignado
+- 🛠️ Experiência em construção de CRMs, automações e APIs REST
+- 🌱 Em constante evolução, sempre estudando novas tecnologias
+- 🎯 Foco em resolver problemas com eficiência e inteligência
+
+---
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+### 👨‍💻 Linguagens  
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript.python,c,c++,C#)](https://skillicons.dev)
+### 🧰 Frameworks & Bibliotecas  
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,django)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+### 🗄️ Banco de Dados  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
+### ⚙️ Ferramentas e DevOps  
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,figma)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![leobarsza GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarsza&show_icons=true&theme=dark&count_private=true)
+
+---
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{leonardobarsza@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{leonardobarsza@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosouzab/)](https://www.linkedin.com/in/leonardosouzab/)<br><br>
+[![Gmail Badge](https://img.shields.io/badge/-leonardobarsza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:leonardobarsza@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-leonardosouzab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosouzab/)](https://www.linkedin.com/in/leonardosouzab/)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarsza&show_icons=true&theme=dark) <br><br>
+---
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+Fique à vontade para entrar em contato para discutirmos colaborações, ideias de projetos, automações, sistemas ou apenas bater um papo sobre tecnologia! 🚀  
