@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de sistemas personalizados, automações e integração de APIs. Tenho interesse especial por soluções que geram impacto real em eficiência e produtividade. Atualmente curso **Ciência da Computação** na Anhanguera e atuo com desenvolvimento backend e frontend.
+Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de sistemas personalizados, automações e integração de APIs. Tenho interesse especial por soluções que geram impacto real em eficiência e produtividade. Atualmente dou seguimento ao curso **Ciência da Computação** na Anhanguera, iniciado anteriormente pelo IFSULDEMINAS, e atuo com desenvolvimento backend e frontend.
 
 - 💻 Desenvolvedor em formação com projetos reais na área de crédito consignado
 - 🛠️ Experiência em construção de CRMs, automações e APIs REST
@@ -14,22 +14,26 @@ Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de 
 ## 🚀 Habilidades
 
 ### 👨‍💻 Linguagens  
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,python,java,c,cpp,cs)](https://skillicons.dev)
 
-### 🧰 Frameworks & Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,django)](https://skillicons.dev)
+### 🎨 Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,vue)](https://skillicons.dev)
+
+### 🧰 Backend & Frameworks  
+[![My Skills](https://skillicons.dev/icons?i=laravel,django,nodejs,spring)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 
 ### ⚙️ Ferramentas e DevOps  
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,linux,docker)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
-![leobarsza GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarsza&show_icons=true&theme=dark&count_private=true)
+![leobarsza GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarsza&show_icons=true&theme=dark&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobarsza&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -40,4 +44,4 @@ Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de 
 
 ---
 
-Fique à vontade para entrar em contato para discutirmos colaborações, ideias de projetos, automações, sistemas ou apenas bater um papo sobre tecnologia! 🚀  
+Fique à vontade para entrar em contato para discutirmos colaborações, ideias de projetos, automações, sistemas ou apenas bater um papo sobre tecnologia! 🚀
