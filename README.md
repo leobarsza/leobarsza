@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de 
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,python,c,cs,cpp)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nodejs,bootstrap)](https://skillicons.dev)  
 > Também familiaridade com: Express, jQuery
 
 ### 🗄️ Bancos de Dados  
