@@ -14,7 +14,7 @@ Sou um entusiasta da tecnologia com experiência prática em desenvolvimento de 
 ## 🚀 Habilidades Técnicas
 
 ### 💻 Linguagens  
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,python,sql,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,python,c,cs,cpp)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Bibliotecas  
 [![My Skills](https://skillicons.dev/icons?i=laravel,vue,nodejs)](https://skillicons.dev)  
